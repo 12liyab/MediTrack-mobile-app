@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediTrack</string>
+    
+    <!-- Auth Strings -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    
+    <!-- Medication Strings -->
+    <string name="add_medication">Add Medication</string>
+    <string name="edit_medication">Edit Medication</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="frequency">Frequency</string>
+    <string name="reminder_time">Reminder Time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Frequency Options -->
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="custom">Custom</string>
+    
+    <!-- Notification Strings -->
+    <string name="medication_reminder">Medication Reminder</string>
+    <string name="time_to_take_medication">Time to take %1$s</string>
+    <string name="medication_dosage_format">%1$s - %2$s</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_invalid_password">Password must be at least 6 characters</string>
+    <string name="error_login_failed">Login failed. Please try again.</string>
+    <string name="error_signup_failed">Sign up failed. Please try again.</string>
+</resources>
