@@ -5,7 +5,7 @@ MediTrack is an Android application that helps users monitor their medication sc
 Features
 User Authentication
 
-Local SQLite-based authentication
+Local SQLite-based authentication 
 Secure password storage
 Session management
 Medication Management
