@@ -3,7 +3,7 @@ Overview
 MediTrack is an Android application that helps users monitor their medication schedules, receive daily reminders, and manage their medication intake effectively. The app works offline and provides secure local authentication.
 
 Features
-User Authentication 
+User Authentication
 
 Local SQLite-based authentication
 Secure password storage
